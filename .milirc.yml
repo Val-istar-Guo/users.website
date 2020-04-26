@@ -1,0 +1,5 @@
+mili:
+  version: 3.9.1
+template:
+  repository: 'npm:@mtpl/website'
+  version: 2.6.0
