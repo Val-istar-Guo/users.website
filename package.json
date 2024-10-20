@@ -71,7 +71,7 @@
     "@typescript-eslint/eslint-plugin": "^3.6.1",
     "@typescript-eslint/parser": "^3.6.1",
     "ali-oss": "^6.10.0",
-    "cookie": "^0.4.1",
+    "cookie": "^1.0.1",
     "core-js": "^3.6.5",
     "countries-list": "^2.5.5",
     "dotenv": "^8.2.0",
